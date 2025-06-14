@@ -57,7 +57,7 @@
 ## 📫 Me contacter
 
 <p align="center">
-  <a href="mailto:msidiyahyahamady@gmail.com"><img src="https://img.icons8.com/ios-filled/30/000000/email.png"/></a>
+  <a href="mailto:msidiyahyahamady@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"/></a>
   <a href="https://www.linkedin.com/in/mohamedsidiyahyahamady"><img src="https://img.icons8.com/ios-filled/30/000000/linkedin.png"/></a>
 </p>
 
