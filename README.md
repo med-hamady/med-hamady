@@ -1,6 +1,6 @@
 # Salut 👋 Je suis Mohamed SidiYahya Hamady
 
-![Banner](https://github.com/tonpseudo/tonpseudo/blob/main/assets/header.png)
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 👨‍💻 Étudiant en *Réseaux Informatique et Télécommunications* à l'*ISCAE* (Mauritanie).  
 🌍 Passionné par le *développement Web/Mobile, la **programmation système, et l’administration et supervision des réseaux*.  
