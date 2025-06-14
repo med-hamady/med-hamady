@@ -57,9 +57,8 @@
 ## 📫 Me contacter
 
 <p align="center">
-  <a href="mailto:tonemail@example.com"><img src="https://img.icons8.com/ios-filled/30/000000/email.png"/></a>
-  <a href="https://www.linkedin.com/in/tonprofil/"><img src="https://img.icons8.com/ios-filled/30/000000/linkedin.png"/></a>
-  <a href="https://twitter.com/tonpseudo"><img src="https://img.icons8.com/ios-filled/30/000000/twitter.png"/></a>
+  <a href="mailto:msidiyahyahamady@gmail.com"><img src="https://img.icons8.com/ios-filled/30/000000/email.png"/></a>
+  <a href="https://www.linkedin.com/in/mohamedsidiyahyahamady"><img src="https://img.icons8.com/ios-filled/30/000000/linkedin.png"/></a>
 </p>
 
 ---
